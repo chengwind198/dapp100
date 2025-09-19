@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/debug/page": "app/debug/page.js",
+  "/blockexplorer/page": "app/blockexplorer/page.js",
+  "/blockexplorer/address/[address]/page": "app/blockexplorer/address/[address]/page.js"
+}
